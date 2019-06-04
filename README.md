@@ -15,7 +15,7 @@ and the resuls are ready for a submission.
 
 It also saves the results of nearest neighbour search for ensembling.
 
-## [Ensembling] (https://github.com/antorsae/landmark-retrieval-2019/blob/master/ensemble.ipynb)
+## [Ensembling](https://github.com/antorsae/landmark-retrieval-2019/blob/master/ensemble.ipynb)
 
 This notebook takes the results of nearest neighbours search for each query (and flipped LR queries)
 and aggregates distances of different runs (different architectures) and builds a submission accordingly.
